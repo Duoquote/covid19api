@@ -84,4 +84,6 @@ if (process.env.SENT_DSN) {
 }
 
 
-app.listen(3000, "localhost")
+app.listen(3000, "localhost", ()=>{
+  console.log(`Listening on 'localhost:3000'`);
+})
