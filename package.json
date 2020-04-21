@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "node index.js",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "node update_data.js"
   },
+  "heroku-run-build-script": true,
   "author": "",
   "license": "MIT",
   "dependencies": {
