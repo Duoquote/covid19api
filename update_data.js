@@ -68,7 +68,7 @@ function updateData() {
         })
         data = tmpData;
         fs.writeFileSync("data.json", JSON.stringify(data));
-        console.log(data);
+        // console.log(data);
       } catch(err) {
         Sentry.captureException(err);
       }
