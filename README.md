@@ -7,21 +7,21 @@ In this project, I parse the Covid19 Virus data from saglik.gov.tr, and compile 
   "dailyData": {
     "3-10-2020": {
       "date": 1583787600000,
-      "cases": "1",
-      "deaths": "0"
+      "cases": 1,
+      "deaths": 0
     },
     .
     .
     .
     "4-19-2020": {
       "date": 1587243600000,
-      "cases": "86306",
-      "deaths": "2017"
+      "cases": 86306,
+      "deaths": 2017
     },
     "4-20-2020": {
       "date": 1587330000000,
-      "cases": "90980",
-      "deaths": "2140"
+      "cases": 90980,
+      "deaths": 2140
     }
   },
   "detail": {
@@ -53,7 +53,7 @@ Assuming you assign the data to `data` object, the data as follows:
 
 
 # Türkçe Açıklama
-Bu projede, saglik.gov.tr'den corona virüsünün verisi alınıp, REST API için hazır hale getirilip sunulmaktadır. https://covid19reqapi.herokuapp.com/ adresine `GET` isteği göndererek, JSON formatında veriyi alabilirsiniz. Verinin yapısı oldukça basit, yukarıda örnek bir JSON verisi var. Verinin detaylı açıklaması aşağıdaki tablodadır.
+Bu projede, saglik.gov.tr'den corona virüsünün verisi alınıp, REST API için hazır hale getirilip sunulmaktadır. https://covid19reqapi.herokuapp.com/ adresine `GET` isteği göndererek, JSON formatında veriyi alabilirsiniz. Verinin yapısı oldukça basit, yukarıda örnek bir JSON verisi var. Veri saat başı güncellenmektedir ancak orijinal veri günlük güncellendiği için çok bir değişiklik beklememelisiniz. Verinin detaylı açıklaması aşağıdaki tablodadır.
 
 Aşağıdaki tablo, alınan veriyi `data` değişkenine atadığınızı varsayaraktan açıklanmıştır.
 | Konum | Veri Tipi | Veri |

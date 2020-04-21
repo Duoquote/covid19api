@@ -48,8 +48,8 @@ function updateData() {
           if (config.data.datasets[0].data[i]) {
             obj[tarih] = {
               date: new Date(tarih).getTime(),
-              cases: config.data.datasets[0].data[i],
-              deaths: config.data.datasets[1].data[i]
+              cases: parseInt(config.data.datasets[0].data[i]),
+              deaths: parseInt(config.data.datasets[1].data[i])
             }
           }
           return obj;
