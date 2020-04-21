@@ -63,7 +63,6 @@ function updateData() {
         tmpData.detail[varDict[label]] = parseInt(elem.textContent.match(/(\d+\.?\d+|\d+)/g)[0].replace(".", ""));
       })
       data = tmpData;
-      console.log(data);
     })
 }
 
@@ -85,4 +84,4 @@ if (process.env.SENT_DSN) {
 }
 
 
-app.listen(3000)
+app.listen(3000, "localhost")
