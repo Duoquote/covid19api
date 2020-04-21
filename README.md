@@ -1,5 +1,6 @@
 # Covid19 Virus data compiled from https://covid19.saglik.gov.tr/
 ## Access API here: https://covid19reqapi.herokuapp.com/
+### Data updated every hour but the origin data is updated daily, so don't expect many changes as the actual data is going to be updated daily.
 In this project, I parse the Covid19 Virus data from saglik.gov.tr, and compile it into REST API kind of data. The structure is as follows:
 ```json
 {
