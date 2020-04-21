@@ -49,6 +49,10 @@ Assuming you assign the data to `data` object, the data as follows:
 | data.detail.total_intense_care | Integer | Total people in intense care. |
 | data.detail.total_cases | Integer | Total people incubated |
 | data.detail.total_healed | Integer | Total people healed. |
+| data.detail.new_tests | Integer | Tests made today. (Indeed it's yesterday as the data is not updated for a day) |
+| data.detail.new_cases | Integer | New cases submitted today. (Indeed it's yesterday as the data is not updated for a day) |
+| data.detail.new_deaths | Integer | New deaths submitted today. (Indeed it's yesterday as the data is not updated for a day) |
+| data.detail.new_healed | Integer | New healed submitted today. (Indeed it's yesterday as the data is not updated for a day) |
 
 
 
@@ -68,3 +72,7 @@ Aşağıdaki tablo, alınan veriyi `data` değişkenine atadığınızı varsaya
 | data.detail.total_intense_care | Integer | Toplam yoğun bakımda olan kişi sayısını içerir. |
 | data.detail.total_cases | Integer | Toplam entübe olan kişi sayısını içerir. |
 | data.detail.total_healed | Integer | Toplam iyileşen kişi sayısnı içerir. |
+| data.detail.new_tests | Integer | Bugün yapılan test sayısı. (Aslında dün sonunda güncellendiği için dünün verisi) |
+| data.detail.new_cases | Integer | Bugün tespit edilen vaka sayısı. (Aslında dün sonunda güncellendiği için dünün verisi) |
+| data.detail.new_deaths | Integer | Bugün kayıtlara geçen ölüm sayısı. (Aslında dün sonunda güncellendiği için dünün verisi) |
+| data.detail.new_healed | Integer | Bugün kayıtlara geçen iyileşen kişi sayısı. (Aslında dün sonunda güncellendiği için dünün verisi) |
