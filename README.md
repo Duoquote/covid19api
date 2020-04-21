@@ -72,7 +72,7 @@ Aşağıdaki tablo, alınan veriyi `data` değişkenine atadığınızı varsaya
 | data.detail.total_intense_care | Integer | Toplam yoğun bakımda olan kişi sayısını içerir. |
 | data.detail.total_cases | Integer | Toplam entübe olan kişi sayısını içerir. |
 | data.detail.total_healed | Integer | Toplam iyileşen kişi sayısnı içerir. |
-| data.detail.new_tests | Integer | Bugün yapılan test sayısı. (Aslında dün sonunda güncellendiği için dünün verisi) |
-| data.detail.new_cases | Integer | Bugün tespit edilen vaka sayısı. (Aslında dün sonunda güncellendiği için dünün verisi) |
-| data.detail.new_deaths | Integer | Bugün kayıtlara geçen ölüm sayısı. (Aslında dün sonunda güncellendiği için dünün verisi) |
-| data.detail.new_healed | Integer | Bugün kayıtlara geçen iyileşen kişi sayısı. (Aslında dün sonunda güncellendiği için dünün verisi) |
+| data.detail.new_tests | Integer | Bugün yapılan test sayısı. (Aslında gün sonunda güncellendiği için dünün verisi) |
+| data.detail.new_cases | Integer | Bugün tespit edilen vaka sayısı. (Aslında gün sonunda güncellendiği için dünün verisi) |
+| data.detail.new_deaths | Integer | Bugün kayıtlara geçen ölüm sayısı. (Aslında gün sonunda güncellendiği için dünün verisi) |
+| data.detail.new_healed | Integer | Bugün kayıtlara geçen iyileşen kişi sayısı. (Aslında gün sonunda güncellendiği için dünün verisi) |
