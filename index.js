@@ -3,6 +3,8 @@ const express = require("express"),
       Sentry = require("@sentry/node"),
       app = express()
 
+const port = process.env.PORT || 3000;
+
 if (process.env.SENT_DSN) {
   Sentry.init({
     dsn: process.env.SENT_DSN
@@ -29,6 +31,6 @@ if (process.env.SENT_DSN) {
 }
 
 
-app.listen(3000, "localhost", ()=>{
-  console.log(`Listening on 'localhost:3000'`);
+app.listen(port, ()=>{
+  console.log(`Listening on '${port}'`);
 })
