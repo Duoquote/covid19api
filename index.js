@@ -32,7 +32,7 @@ var varDict = {
   "TOPLAM VAKA SAYISI": "total_cases",
   "TOPLAM VEFAT SAYISI": "total_deaths",
   "TOPLAM YOĞUN BAKIM HASTA SAYISI": "total_intense_care",
-  "TOPLAM ENTUBE HASTA SAYISI": "total_intubated",
+  "TOPLAM ENTUBE HASTA SAYISI": "total_incubated",
   "TOPLAM İYİLEŞEN HASTA SAYISI": "total_head"
 }
 
