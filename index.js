@@ -17,13 +17,7 @@ if (process.env.SENT_DSN) {
 
 
 app.get("/", (req, res)=>{
-  if (fs.existsSync("data.json")) {
-    let data = fs.readFileSync("data.json");
-    res.json(JSON.parse(data));
-  } else {
-    res.send("Loading data, please send request later...");
-  }
-
+  res.sendFile("data.json")
 })
 
 if (process.env.SENT_DSN) {
