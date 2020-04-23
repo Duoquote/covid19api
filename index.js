@@ -1,6 +1,7 @@
 const express = require("express"),
       fs = require("fs"),
       Sentry = require("@sentry/node"),
+      path = require("path"),
       app = express()
 
 const port = process.env.PORT || 3000;
@@ -17,7 +18,7 @@ if (process.env.SENT_DSN) {
 
 
 app.get("/", (req, res)=>{
-  res.sendFile("data.json")
+  res.sendFile(path.join(__dirname, "data.json"))
 })
 
 if (process.env.SENT_DSN) {
