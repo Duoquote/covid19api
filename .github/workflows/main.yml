@@ -8,7 +8,7 @@ on:
   schedule:
     - cron: "0 22 * * *"
   push:
-    branches: [devel]
+    branches: [master]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -22,7 +22,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         with:
-          ref: devel
+          ref: master
 
       - name: Seting up Python 3.8...
         uses: actions/setup-python@v2
