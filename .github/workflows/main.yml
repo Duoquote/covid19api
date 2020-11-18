@@ -43,4 +43,4 @@ jobs:
           force: true
           author-name: Duoquote
           commit-message: Updated data...
-          remote-ref: cli
+          remote-ref: refs/heads/cli
