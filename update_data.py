@@ -16,12 +16,12 @@ if not os.path.exists("data_txt"):
 BASE_URL = "https://covid19.saglik.gov.tr"
 data = requests.get(BASE_URL)
 
-REPORT_PAGE = BASE_URL + BS(data.content, "lxml").find("a", {"title": "COVID-19 Durum Raporu"}).get("href")
+REPORT_PAGE = BASE_URL + BS(data.content, "html.parser").find("a", {"title": "COVID-19 Durum Raporu"}).get("href")
 data = requests.get(REPORT_PAGE)
 
-REPORT_LIST_PAGE = BASE_URL + BS(data.content, "lxml").select("div#ada_AltSayfaSolLink > a")[0].get("href")
+REPORT_LIST_PAGE = BASE_URL + BS(data.content, "html.parser").select("div#ada_AltSayfaSolLink > a")[0].get("href")
 data = requests.get(REPORT_LIST_PAGE)
-data = [i.get("href") for i in BS(data.content, "lxml").select(".page-content-body > div > div > table tr > td > a[href*='tr.html']")]
+data = [i.get("href") for i in BS(data.content, "html.parser").select(".page-content-body > div > div > table tr > td > a[href*='tr.html']")]
 
 files = map(lambda x: (str(x), re.match(r"^.*?(\d+-tr)", str(x)).groups()[0] + ".pdf"), data)
 for report in files:
