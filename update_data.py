@@ -1,7 +1,7 @@
 import requests, re, json, os, shutil, locale
 from datetime import datetime
 from bs4 import BeautifulSoup as BS
-from pprint import pprint
+# from pprint import pprint
 locale.setlocale(locale.LC_ALL, 'tr_TR.utf8')
 
 if not shutil.which("mutool"):
