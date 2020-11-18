@@ -18,7 +18,7 @@ if (process.env.SENT_DSN) {
 
 
 app.get("/", (req, res)=>{
-  res.sendFile(path.join(__dirname, "data.json"))
+  res.sendFile(path.join(__dirname, "export.json"))
 })
 
 if (process.env.SENT_DSN) {
