@@ -31,11 +31,18 @@ for report in files:
         with open(dataPath, "wb") as f:
             f.write(requests.get(BASE_URL + report[0]).content)
     if not os.path.exists(txtPath):
-        os.system("cmd /C \"{} convert -o {}.txt {}\"".format(
-            shutil.which("mutool"),
-            txtPath.split(".")[0],
-            dataPath
-        ))
+        if os.name == "nt":
+            os.system("cmd /C \"{} convert -o {}.txt {}\"".format(
+                shutil.which("mutool"),
+                txtPath.split(".")[0],
+                dataPath
+            ))
+        else:
+            os.system("/bin/sh -c \"{} convert -o {}.txt {}\"".format(
+                shutil.which("mutool"),
+                txtPath.split(".")[0],
+                dataPath
+            ))
 
 ageMap = [
     "< 2", 
