@@ -34,10 +34,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Installing Dependencies...
         run: |
-          sudo locale-gen tr_TR
-          sudo locale-gen tr_TR.UTF-8
-          sudo update locale
-          sudo apt-get install mupdf mupdf-tools
+          sudo apt-get install language-pack-tr mupdf mupdf-tools
 
       - name: Fetching new data...
         run: python update_data.py
