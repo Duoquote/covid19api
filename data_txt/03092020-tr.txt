@@ -1,0 +1,524 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+COVID-19 Günlük Durum Raporu 
+
+03/09/2020 
+
+Türkiye 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+04/09/2020 
+
+ 
+
+COVID-19 Günlük Durum Raporu, 03/09/2020, Türkiye 
+ 
+ 
+
+2 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tablo 1: COVID-19 Özet Tablo, Türkiye 
+ 
+
+Gösterge 
+03/09/2020 
+Önceki Güne  
+
+Göre Fark 
+
+Önceki Güne  
+
+Göre Değişim, (%) 
+
+Test Sayısı 
+109.926 
+2.110 
+2,0 
+
+Yeni Hasta Sayısı 
+1.641 
+44 
+2,8 
+
+Hastaneye Yatırılan  
+
+Yeni Hasta Sayısı 
+588 
+15 
+2,6 
+
+Entübe Edilen  
+
+Yeni Hasta Sayısı 
+87 
+-6 
+-6,5 
+
+Hastaneden  
+
+Taburcu Edilen  
+Yeni Hasta Sayısı 
+
+433 
+-50 
+-10,4 
+
+ 
+
+        
+       Günün Özeti – 03/09/2020 
+
+ 
+
+ 
+Bir önceki güne göre entübe edilen yeni hasta sayısında azalma (-%6,5), COVID-19 test 
+
+sayısında ise artış (%2,0) görülmüştür. 
+
+ 
+Bir önceki güne göre bölgelerdeki hasta değişim yüzdesine bakıldığında; en fazla azalış 
+
+Güneydoğu Anadolu Bölgesinde gerçekleşmiştir (-%16,1). En fazla artış ise Batı Karadeniz 
+
+Bölgesinde olup hasta sayısı açısından incelendiğinde bu fark 25 hastadır. 
+
+ 
+25-49 yaş grubunda 1.000.000 kişiye düşen yeni COVID-19 hasta sayısı kadınlarda 25,6, 
+
+erkeklerde ise 27,5’dir. 
+
+ 
+Bir önceki güne göre hastaneye yatırılan yeni hasta sayısındaki en fazla azalış Ortadoğu 
+
+Anadolu Bölgesindedir (-%30,6).  
+
+COVID-19 Günlük Durum Raporu, 03/09/2020, Türkiye 
+ 
+ 
+
+3 
+
+ 
+
+Tablo 2: İBBS-1’e Göre Yeni COVID-19 Hasta Sayısı ve Bir Önceki Güne Göre Değişimi, Türkiye 
+ 
+
+İBBS-1 
+Yeni Hasta  
+
+Sayısı 
+
+Önceki Güne  
+
+Göre Fark 
+
+Önceki Güne  
+
+Göre Değişim, (%) 
+
+İstanbul 
+193 
+8 
+4,3 
+
+Batı Marmara 
+14 
+0 
+0,0 
+
+Ege 
+101 
+17 
+20,2 
+
+Doğu Marmara 
+99 
+-5 
+-4,8 
+
+Batı Anadolu 
+392 
+39 
+11,0 
+
+Akdeniz 
+123 
+-11 
+-8,2 
+
+Orta Anadolu 
+216 
+-8 
+-3,6 
+
+Batı Karadeniz 
+116 
+25 
+27,5 
+
+Doğu Karadeniz 
+42 
+-3 
+-6,7 
+
+Kuzeydoğu Anadolu 
+80 
+14 
+21,2 
+
+Ortadoğu Anadolu 
+130 
+-6 
+-4,4 
+
+Güneydoğu Anadolu 
+135 
+-26 
+-16,1 
+
+Türkiye 
+1.641 
+44 
+2,8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Şekil 1: İBBS-1’e Göre Yeni COVID-19 Hasta Sayısı, Türkiye 
+
+COVID-19 Günlük Durum Raporu, 03/09/2020, Türkiye 
+ 
+ 
+
+4 
+
+ 
+
+Tablo 3: Cinsiyet ve Yaş Grubuna Göre Yeni COVID-19 Hasta Sayısı, Türkiye 
+
+ 
+
+  
+
+  
+  
+  
+Yaş Grubu 
+  
+
+  
+  
+
+  
+< 2 
+2-4 
+5-14 
+15-24 
+25-49 
+50-64 
+65-79 
+80+ 
+
+Erkek 
+4 
+6 
+26 
+110 
+428 
+150 
+75 
+15 
+
+Kadın 
+3 
+6 
+27 
+129 
+390 
+167 
+84 
+21 
+
+Toplam 
+7 
+12 
+53 
+239 
+818 
+317 
+159 
+36 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Şekil 2: Cinsiyet ve Yaş Grubuna Göre 1.000.000 Kişiye Düşen Yeni COVID-19 Hasta Sayısı, Türkiye 
+
+3,2
+3,0
+
+3,9
+
+16,5
+
+27,5
+
+23,8
+
+27,1
+26,4
+
+2,6
+3,1
+
+4,3
+
+20,4
+
+25,6
+
+26,4
+
+25,6
+
+22,4
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+< 2
+2-4
+5-14
+15-24
+25-49
+50-64
+65-79
+80+
+
+Hasta / 1.000.000 Nüfus
+
+Cinsiyet ve Yaş Grubuna Göre 1.000.000 Kişiye Düşen Yeni COVID-19 Hasta Sayısı
+
+Erkek
+Kadın
+
+COVID-19 Günlük Durum Raporu, 03/09/2020, Türkiye 
+ 
+ 
+
+5 
+
+ 
+
+Tablo 4: İBBS-1’e Göre Hastane Hizmetleri ile İlgili COVID-19 Göstergeleri, Türkiye 
+
+ 
+
+  
+Yeni Hastane Yatışları 
+Hastaneden Yeni Taburcu Edilenler 
+
+İBBS-1 
+Sayı 
+Önceki Güne Göre 
+
+Değişim, (%) 
+Sayı 
+Önceki Güne Göre 
+
+Değişim, (%) 
+
+İstanbul 
+64 
+23,1 
+29 
+-6,5 
+
+Batı Marmara 
+11 
+57,1 
+6 
+0,0 
+
+Ege 
+41 
+10,8 
+20 
+-9,1 
+
+Doğu Marmara 
+41 
+0,0 
+28 
+0,0 
+
+Batı Anadolu 
+108 
+-11,5 
+77 
+-7,2 
+
+Akdeniz 
+56 
+12,0 
+35 
+-14,6 
+
+Orta Anadolu 
+68 
+-2,9 
+55 
+-3,5 
+
+Batı Karadeniz 
+44 
+29,4 
+21 
+-12,5 
+
+Doğu Karadeniz 
+20 
+42,9 
+15 
+-11,8 
+
+Kuzeydoğu Anadolu 
+33 
+10,0 
+27 
+-32,5 
+
+Ortadoğu Anadolu 
+25 
+-30,6 
+30 
+-11,8 
+
+Güneydoğu Anadolu 
+77 
+-3,8 
+90 
+-10,0 
+
+Türkiye 
+588 
+2,6 
+433 
+-10,4 
+
+ 
+
+ 
+Notlar: 
+
+ 
+Tüm COVID-19 hastaları laboratuvar onaylıdır. 
+
+ 
+Rapor 00:00 ile 23:59 saatleri arasındaki verileri kapsamaktadır. 
+
+ 
+Türkiye'de ilk COVID-19 hastasının görüldüğü 11 Mart 2020 tarihi itibarıyla birden fazla kez 
+
+hastaneye yatan hastalar, birden fazla kez entübe edilen hastalar ve birden fazla kez 
+
+hastaneden taburcu edilen hastalar gösterge hesaplamalarına sadece bir kere dahil 
+
+edilmektedir. 
+
+ 
+Değişim yüzdesi, karşılaştırma yapılan bir önceki güne göre sayıların yüzde kaç oranında arttığı 
+
+ya da azaldığını gösteren bir göstergedir. Aşağıdaki şekilde hesaplanmıştır. 
+
+𝐷𝑒ğ𝑖ş𝑖𝑚 𝑦ü𝑧𝑑𝑒𝑠𝑖 = (𝑌𝑒𝑛𝑖 𝑑𝑒ğ𝑒𝑟 − 𝐸𝑠𝑘𝑖 𝑑𝑒ğ𝑒𝑟)
+
+𝐸𝑠𝑘𝑖 𝑑𝑒ğ𝑒𝑟
+∗ 100 
+
+ 
+Taburcu ifadesi, şifaen, haliyle, ölüm ve sevk durumlarını içermektedir. 
+

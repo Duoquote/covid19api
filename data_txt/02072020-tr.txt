@@ -1,0 +1,508 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+COVID-19 Günlük Durum Raporu 
+
+02/07/2020 
+
+Türkiye 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+04/07/2020 
+
+ 
+
+COVID-19 Günlük Durum Raporu, 02/07/2020, Türkiye 
+ 
+ 
+
+2 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tablo 1: COVID-19 Özet Tablo, Türkiye 
+ 
+
+Gösterge 
+02/07/2020 
+Önceki Güne  
+
+Göre Fark 
+
+Önceki Güne  
+
+Göre Değişim, (%) 
+
+Yeni Test Sayısı 
+49.956 
+-2.259 
+-4,3 
+
+Yeni Vaka Sayısı 
+1.187 
+-11 
+-0,9 
+
+Hastaneye Yatırılan  
+
+Yeni Hasta Sayısı 
+711 
+23 
+3,3 
+
+Entübe Edilen  
+
+Yeni Hasta Sayısı 
+58 
+6 
+11,5 
+
+Hastaneden  
+
+Taburcu Edilen  
+Yeni Hasta Sayısı 
+
+818 
+-1.487 
+-64,5 
+
+ 
+ 
+
+Günün Özeti - 02/07/2020 
+ 
+
+ 
+Türkiye’de bir önceki güne göre yeni COVID-19 vaka sayısında azalma görülmüştür. 
+
+ 
+12 İBBS bölgesinden 7’sinde bir önceki güne göre vaka sayılarında azalma gerçekleşmiştir. 
+
+ 
+Bir önceki güne göre hastaneye yatırılan yeni hasta sayısı Ege ve İstanbul Bölgelerinde 
+
+sırasıyla %14 ve %12,3 azalmıştır.   
+
+ 
+25-49 yaş grubunda 1.000.000 kişiye düşen yeni COVID-19 vaka sayısı kadınlarda 17, 
+
+erkeklerde ise 20’dir.  
+
+COVID-19 Günlük Durum Raporu, 02/07/2020, Türkiye 
+ 
+ 
+
+3 
+
+ 
+
+Tablo 2: İBBS-1’e Göre Yeni COVID-19 Vaka Sayısı ve Bir Önceki Güne Göre Değişimi, Türkiye 
+ 
+
+İBBS-1 
+Yeni Vaka  
+
+Sayısı 
+
+Önceki Güne  
+
+Göre Fark 
+
+Önceki Güne  
+
+Göre Değişim, (%) 
+
+İstanbul 
+288 
+-9 
+-3,0 
+
+Batı Marmara 
+6 
+-1 
+-14,3 
+
+Ege 
+89 
+5 
+6,0 
+
+Doğu Marmara 
+116 
+1 
+0,9 
+
+Batı Anadolu 
+184 
+1 
+0,5 
+
+Akdeniz 
+66 
+-2 
+-2,9 
+
+Orta Anadolu 
+22 
+0 
+0,0 
+
+Batı Karadeniz 
+21 
+-1 
+-4,5 
+
+Doğu Karadeniz 
+9 
+-1 
+-10,0 
+
+Kuzeydoğu Anadolu 
+16 
+1 
+6,7 
+
+Ortadoğu Anadolu 
+46 
+-2 
+-4,2 
+
+Güneydoğu Anadolu 
+324 
+-3 
+-0,9 
+
+Türkiye 
+1.187 
+-11 
+-0,9 
+
+ 
+
+ 
+
+ 
+
+Şekil 1: İBBS-1’e Göre Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+COVID-19 Günlük Durum Raporu, 02/07/2020, Türkiye 
+ 
+ 
+
+4 
+
+ 
+
+Tablo 3: Cinsiyet ve Yaş Grubuna Göre Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+  
+
+  
+  
+  
+Yaş Grubu 
+  
+
+  
+  
+
+  
+< 2 
+2-4 
+5-14 
+15-24 
+25-49 
+50-64 
+65-79 
+80+ 
+
+Erkek 
+6 
+7 
+35 
+89 
+318 
+108 
+49 
+10 
+
+Kadın 
+5 
+8 
+24 
+90 
+262 
+110 
+53 
+13 
+
+Toplam 
+11 
+15 
+59 
+179 
+580 
+218 
+102 
+23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Şekil 2: Cinsiyet ve Yaş Grubuna Göre 1.000.000 Kişiye Düşen Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+5
+
+3
+
+5
+
+13
+
+20
+
+17
+18
+18
+
+4
+4
+4
+
+14
+
+17
+17
+
+16
+
+14
+
+0
+
+5
+
+10
+
+15
+
+20
+
+< 2
+2-4
+5-14
+15-24
+25-49
+50-64
+65-79
+80+
+
+Vaka / 1.000.000 Nüfus
+
+Cinsiyet ve Yaş Grubuna Göre 1.000.000 Kişiye Düşen Yeni COVID-19 Vaka Sayısı
+
+Erkek
+Kadın
+
+COVID-19 Günlük Durum Raporu, 02/07/2020, Türkiye 
+ 
+ 
+
+5 
+
+ 
+
+Tablo 4: İBBS-1’e Göre Hastane Hizmetleri ile İlgili COVID-19 Göstergeleri, Türkiye 
+
+ 
+
+  
+Yeni Hastane Yatışları 
+Hastaneden Yeni Taburcu Edilenler 
+
+İBBS-1 
+Sayı 
+Önceki Güne Göre 
+
+Değişim, (%) 
+Sayı 
+Önceki Güne Göre 
+
+Değişim, (%) 
+
+İstanbul 
+71 
+-12,3 
+104 
+-74,1 
+
+Batı Marmara 
+9 
+12,5 
+8 
+-91,3 
+
+Ege 
+49 
+-14,0 
+79 
+-46,6 
+
+Doğu Marmara 
+84 
+2,4 
+101 
+-61,5 
+
+Batı Anadolu 
+127 
+-3,8 
+197 
+-48,2 
+
+Akdeniz 
+57 
+39,0 
+29 
+-79,3 
+
+Orta Anadolu 
+26 
+13,0 
+35 
+-25,5 
+
+Batı Karadeniz 
+28 
+27,3 
+27 
+-69,3 
+
+Doğu Karadeniz 
+15 
+25,0 
+4 
+-88,9 
+
+Kuzeydoğu Anadolu 
+15 
+-6,3 
+10 
+-80,8 
+
+Ortadoğu Anadolu 
+27 
+28,6 
+31 
+-64,4 
+
+Güneydoğu Anadolu 
+203 
+5,2 
+193 
+-66,2 
+
+Türkiye 
+711 
+3,3 
+818 
+-64,5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Notlar: 
+
+ 
+Tüm COVID-19 vakaları laboratuvar onaylıdır. 
+
+ 
+Rapor 00:00 ile 23:59 saatleri arasındaki verileri kapsamaktadır. 
+
+ 
+Değişim yüzdesi, karşılaştırma yapılan bir önceki güne göre sayıların yüzde kaç oranında arttığı 
+
+ya da azaldığını gösteren bir göstergedir. Aşağıdaki şekilde hesaplanmıştır. 
+
+𝐷𝑒ğ𝑖ş𝑖𝑚 𝑦ü𝑧𝑑𝑒𝑠𝑖 = (𝑌𝑒𝑛𝑖 𝑑𝑒ğ𝑒𝑟 − 𝐸𝑠𝑘𝑖 𝑑𝑒ğ𝑒𝑟)
+
+𝐸𝑠𝑘𝑖 𝑑𝑒ğ𝑒𝑟
+∗ 100 
+
+ 
+

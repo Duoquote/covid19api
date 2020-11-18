@@ -1,0 +1,472 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+COVID-19 Günlük Durum Raporu 
+
+29/06/2020 
+
+Türkiye 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+04/07/2020 
+
+ 
+
+COVID-19 Günlük Durum Raporu, 29/06/2020, Türkiye 
+ 
+ 
+
+2 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tablo 1: COVID-19 Özet Tablo, Türkiye 
+ 
+
+Gösterge 
+29/06/2020 
+
+Yeni Test Sayısı 
+52.108 
+
+Yeni Vaka Sayısı 
+1.379 
+
+Hastaneye Yatırılan  
+
+Yeni Hasta Sayısı 
+773 
+
+Entübe Edilen  
+
+Yeni Hasta Sayısı 
+43 
+
+Hastaneden  
+
+Taburcu Edilen  
+Yeni Hasta Sayısı 
+
+1.175 
+
+ 
+
+Günün Özeti - 29/06/2020 
+ 
+
+ 
+29/06/2020 tarihinde COVID-19 için Türkiye’de toplam 52.108 yeni test yapılmıştır. 
+
+ 
+Yeni COVID-19 vaka sayısı 1.379 olarak gerçekleşmiştir. Bir önceki güne göre yeni vaka 
+
+sayısındaki azalma 83 vaka ile en fazla İstanbul’da olmuştur. 
+
+ 
+80+ yaş grubunda 1.000.000 kişiye düşen yeni COVID-19 vaka sayısı erkeklerde 26, 
+
+kadınlarda 16’dır. 
+
+ 
+Türkiye’de 29/06/2020 tarihinde hastaneye yatırılan yeni hasta sayısı 773, hastaneden 
+
+taburcu edilen yeni hasta sayısı ise 1.175 olarak gerçekleşmiştir. 
+
+COVID-19 Günlük Durum Raporu, 29/06/2020, Türkiye 
+ 
+ 
+
+3 
+
+ 
+
+ 
+Tablo 2: İBBS-1’e Göre Yeni COVID-19 Vaka Sayısı ve Bir Önceki Güne Göre Değişimi, Türkiye 
+ 
+
+İBBS-1 
+Yeni Vaka  
+
+Sayısı 
+
+Önceki Güne  
+
+Göre Fark 
+
+Önceki Güne  
+
+Göre Değişim, (%) 
+
+İstanbul 
+332 
+-83 
+-20,0 
+
+Batı Marmara 
+5 
+-9 
+-64,3 
+
+Ege 
+89 
+5 
+6,0 
+
+Doğu Marmara 
+131 
+-17 
+-11,5 
+
+Batı Anadolu 
+228 
+49 
+27,4 
+
+Akdeniz 
+69 
+22 
+46,8 
+
+Orta Anadolu 
+24 
+-10 
+-29,4 
+
+Batı Karadeniz 
+34 
+5 
+17,2 
+
+Doğu Karadeniz 
+13 
+6 
+85,7 
+
+Kuzeydoğu Anadolu 
+9 
+-21 
+-70,0 
+
+Ortadoğu Anadolu 
+49 
+0 
+0,0 
+
+Güneydoğu Anadolu 
+396 
+59 
+17,5 
+
+Türkiye 
+1.379 
+6 
+0,4 
+
+ 
+
+ 
+
+ 
+
+Şekil 1: İBBS-1’e Göre Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+COVID-19 Günlük Durum Raporu, 29/06/2020, Türkiye 
+ 
+ 
+
+4 
+
+ 
+
+Tablo 3: Cinsiyet ve Yaş Grubuna Göre Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+  
+
+  
+  
+  
+Yaş Grubu 
+  
+
+  
+  
+
+  
+< 2 
+2-4 
+5-14 
+15-24 
+25-49 
+50-64 
+65-79 
+80+ 
+
+Erkek 
+7 
+11 
+38 
+89 
+378 
+136 
+61 
+15 
+
+Kadın 
+5 
+7 
+32 
+117 
+300 
+108 
+60 
+15 
+
+Toplam 
+12 
+18 
+70 
+206 
+678 
+244 
+121 
+30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Şekil 2: Cinsiyet ve Yaş Grubuna Göre 1.000.000 Kişiye Düşen Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+6
+5
+6
+
+13
+
+24
+
+22
+22
+
+26
+
+4
+4
+
+5
+
+19
+
+20
+
+17
+
+18
+
+16
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+< 2
+2-4
+5-14
+15-24
+25-49
+50-64
+65-79
+80+
+
+Vaka / 1.000.000 Nüfus
+
+Cinsiyet ve Yaş Grubuna Göre 1.000.000 Kişiye Düşen Yeni COVID-19 Vaka Sayısı
+
+Erkek
+Kadın
+
+COVID-19 Günlük Durum Raporu, 29/06/2020, Türkiye 
+ 
+ 
+
+5 
+
+ 
+
+Tablo 4: İBBS-1’e Göre Hastane Hizmetleri ile İlgili COVID-19 Göstergeleri, Türkiye 
+
+ 
+
+İBBS-1 
+Hastaneye Yatırılan  
+
+Yeni Hasta Sayısı 
+
+Hastaneden  
+
+Taburcu Edilen  
+Yeni Hasta Sayısı 
+
+İstanbul 
+91 
+281 
+
+Batı Marmara 
+6 
+16 
+
+Ege 
+50 
+85 
+
+Doğu Marmara 
+96 
+142 
+
+Batı Anadolu 
+155 
+214 
+
+Akdeniz 
+54 
+42 
+
+Orta Anadolu 
+20 
+35 
+
+Batı Karadeniz 
+31 
+33 
+
+Doğu Karadeniz 
+10 
+8 
+
+Kuzeydoğu Anadolu 
+8 
+30 
+
+Ortadoğu Anadolu 
+39 
+20 
+
+Güneydoğu Anadolu 
+213 
+269 
+
+Türkiye 
+773 
+1.175 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Notlar: 
+
+ 
+Tüm COVID-19 vakaları laboratuvar onaylıdır. 
+
+ 
+Rapor 00:00 ile 23:59 saatleri arasındaki verileri kapsamaktadır. 
+
+ 
+Değişim yüzdesi, karşılaştırma yapılan bir önceki güne göre sayıların yüzde kaç oranında arttığı 
+
+ya da azaldığını gösteren bir göstergedir. Aşağıdaki şekilde hesaplanmıştır. 
+
+𝐷𝑒ğ𝑖ş𝑖𝑚 𝑦ü𝑧𝑑𝑒𝑠𝑖 = (𝑌𝑒𝑛𝑖 𝑑𝑒ğ𝑒𝑟 − 𝐸𝑠𝑘𝑖 𝑑𝑒ğ𝑒𝑟)
+
+𝐸𝑠𝑘𝑖 𝑑𝑒ğ𝑒𝑟
+∗ 100 
+
+ 
+

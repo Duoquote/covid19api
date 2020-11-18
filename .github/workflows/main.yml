@@ -40,4 +40,4 @@ jobs:
         run: python update_data.py
 
       - name: Push to the master branch...
-        run: git checkout -b cli && git commit -m "Updated the data..." && git push
+        run: git checkout -b cli && git commit -m "Updated the data..." && git push -f origin cli

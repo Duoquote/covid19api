@@ -96,7 +96,11 @@ blacklisted = {
 }
 
 allJson = []
-for reportTxt in filter(lambda x: x != "29062020-tr.txt", os.listdir("data_txt")):
+
+fileList = list(filter(lambda x: x != "29062020-tr.txt", os.listdir("data_txt")))
+
+for count, reportTxt in enumerate(fileList):
+    print("[{}/{}] - {}".format(count + 1, len(fileList), reportTxt))
     f = open(os.path.join("data_txt", reportTxt), "r", encoding="utf-8")
     data = f.read()
     match = re.match(r"[\s\S]*?(?P<date>\d\d\/\d\d\/\d{4})[\s\S]*?Tablo 1:[\s\S]*?Test Sayısı \n(?P<tests>.*?) ?\n(?P<tests_compared_yesterday>.*?) ?\n(?P<tests_compared_percentage>.*?) ?\n[\s\S]*?(Vaka|Hasta) Sayısı \n(?P<cases>.*?) ?\n(?P<cases_compared_yesterday>.*?) ?\n(?P<cases_compared_percentage>.*?) ?\n[\s\S]*?Hasta Sayısı \n(?P<hospitalized>.*?) ?\n(?P<hospitalized_compared_yesterday>.*?) ?\n(?P<hospitalized_compared_percentage>.*?) ?\n[\s\S]*?Hasta Sayısı \n(?P<intubated>.*?) ?\n(?P<intubated_compared_yesterday>.*?) ?\n(?P<intubated_compared_percentage>.*?) ?\n[\s\S]*?Hasta Sayısı \n\n(?P<healed>.*?) ?\n(?P<healed_compared_yesterday>.*?) ?\n(?P<healed_compared_percentage>.*?) ?\n[\s\S]*?Günün Özeti.*?$(?P<summary>[\s\S]*?)Tablo 2:[\s\S]*?Göre Değişim.*?$(?P<region_data>[\s\S]*?)Şekil 1:[\s\S]*?Tablo 3:.*?$[\s\S]*?Yaş Grubu[\s\S]*?(?=Erkek|Kadın)(?P<age_data>[\s\S]*?)Şekil 2:[\s\S]*?Tablo 4:[\s\S]*İBBS-1(?P<hospital_data>[\s\S]*?Notlar:)", data, re.MULTILINE)

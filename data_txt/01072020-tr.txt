@@ -1,0 +1,515 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+COVID-19 Günlük Durum Raporu 
+
+01/07/2020 
+
+Türkiye 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+04/07/2020 
+
+ 
+
+COVID-19 Günlük Durum Raporu, 01/07/2020, Türkiye 
+ 
+ 
+
+2 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tablo 1: COVID-19 Özet Tablo, Türkiye 
+ 
+
+Gösterge 
+01/07/2020 
+Önceki Güne  
+
+Göre Fark 
+
+Önceki Güne  
+
+Göre Değişim, (%) 
+
+Yeni Test Sayısı 
+52.215 
+1.628 
+3,2 
+
+Yeni Vaka Sayısı 
+1.198 
+-104 
+-8,0 
+
+Hastaneye Yatırılan  
+
+Yeni Hasta Sayısı 
+688 
+-77 
+-10,1 
+
+Entübe Edilen  
+
+Yeni Hasta Sayısı 
+52 
+-2 
+-3,7 
+
+Hastaneden  
+
+Taburcu Edilen  
+Yeni Hasta Sayısı 
+
+2.305 
+1.047 
+83,2 
+
+ 
+ 
+
+Günün Özeti - 01/07/2020 
+ 
+
+ 
+Türkiye’de bir önceki güne göre hastaneden taburcu edilen yeni hasta sayısı %83,2 artarak 
+
+2.305 kişi olmuştur. Ayrıca hastaneye yatırılan yeni hasta sayısı bir önceki güne göre %10,1 
+
+azalmıştır. 
+
+ 
+Bir önceki güne göre bölgelerdeki vaka değişim yüzdesine bakıldığında; Doğu Karadeniz  
+
+(-%33,3), Batı Marmara (-%22,2) ve İstanbul (-%20,8) Bölgeleri en fazla azalış gösteren 
+
+bölgelerdir. 
+
+ 
+25-49 yaş grubunda 1.000.000 kişiye düşen yeni COVID-19 vaka sayısı kadınlarda 17, 
+
+erkeklerde ise 20’dir.  
+
+COVID-19 Günlük Durum Raporu, 01/07/2020, Türkiye 
+ 
+ 
+
+3 
+
+ 
+
+Tablo 2: İBBS-1’e Göre Yeni COVID-19 Vaka Sayısı ve Bir Önceki Güne Göre Değişimi, Türkiye 
+ 
+
+İBBS-1 
+Yeni Vaka  
+
+Sayısı 
+
+Önceki Güne  
+
+Göre Fark 
+
+Önceki Güne  
+
+Göre Değişim, (%) 
+
+İstanbul 
+297 
+-78 
+-20,8 
+
+Batı Marmara 
+7 
+-2 
+-22,2 
+
+Ege 
+84 
+-7 
+-7,7 
+
+Doğu Marmara 
+115 
+-5 
+-4,2 
+
+Batı Anadolu 
+183 
+-3 
+-1,6 
+
+Akdeniz 
+68 
+11 
+19,3 
+
+Orta Anadolu 
+22 
+-3 
+-12,0 
+
+Batı Karadeniz 
+22 
+-5 
+-18,5 
+
+Doğu Karadeniz 
+10 
+-5 
+-33,3 
+
+Kuzeydoğu Anadolu 
+15 
+0 
+0,0 
+
+Ortadoğu Anadolu 
+48 
+1 
+2,1 
+
+Güneydoğu Anadolu 
+327 
+-8 
+-2,4 
+
+Türkiye 
+1.198 
+-104 
+-8,0 
+
+ 
+
+ 
+
+ 
+
+Şekil 1: İBBS-1’e Göre Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+COVID-19 Günlük Durum Raporu, 01/07/2020, Türkiye 
+ 
+ 
+
+4 
+
+ 
+
+Tablo 3: Cinsiyet ve Yaş Grubuna Göre Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+  
+
+  
+  
+  
+Yaş Grubu 
+  
+
+  
+  
+
+  
+< 2 
+2-4 
+5-14 
+15-24 
+25-49 
+50-64 
+65-79 
+80+ 
+
+Erkek 
+6 
+14 
+30 
+92 
+315 
+106 
+49 
+10 
+
+Kadın 
+4 
+8 
+32 
+92 
+260 
+114 
+54 
+12 
+
+Toplam 
+10 
+22 
+62 
+184 
+575 
+220 
+103 
+22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Şekil 2: Cinsiyet ve Yaş Grubuna Göre 1.000.000 Kişiye Düşen Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+5
+
+7
+
+5
+
+14
+
+20
+
+17
+
+18
+18
+
+3
+
+4
+
+5
+
+15
+
+17
+
+18
+
+16
+
+13
+
+0
+
+5
+
+10
+
+15
+
+20
+
+< 2
+2-4
+5-14
+15-24
+25-49
+50-64
+65-79
+80+
+
+Vaka / 1.000.000 Nüfus
+
+Cinsiyet ve Yaş Grubuna Göre 1.000.000 Kişiye Düşen Yeni COVID-19 Vaka Sayısı
+
+Erkek
+Kadın
+
+COVID-19 Günlük Durum Raporu, 01/07/2020, Türkiye 
+ 
+ 
+
+5 
+
+ 
+
+Tablo 4: İBBS-1’e Göre Hastane Hizmetleri ile İlgili COVID-19 Göstergeleri, Türkiye 
+
+ 
+
+  
+Yeni Hastane Yatışları 
+Hastaneden Yeni Taburcu Edilenler 
+
+İBBS-1 
+Sayı 
+Önceki Güne Göre 
+
+Değişim, (%) 
+Sayı 
+Önceki Güne Göre 
+
+Değişim, (%) 
+
+İstanbul 
+81 
+-6,9 
+402 
+30,5 
+
+Batı Marmara 
+8 
+0,0 
+92 
+820,0 
+
+Ege 
+57 
+9,6 
+148 
+138,7 
+
+Doğu Marmara 
+82 
+-7,9 
+262 
+54,1 
+
+Batı Anadolu 
+132 
+-10,2 
+380 
+105,4 
+
+Akdeniz 
+41 
+-30,5 
+140 
+84,2 
+
+Orta Anadolu 
+23 
+-8,0 
+47 
+23,7 
+
+Batı Karadeniz 
+22 
+0,0 
+88 
+166,7 
+
+Doğu Karadeniz 
+12 
+20,0 
+36 
+800,0 
+
+Kuzeydoğu Anadolu 
+16 
+-5,9 
+52 
+173,7 
+
+Ortadoğu Anadolu 
+21 
+-22,2 
+87 
+163,6 
+
+Güneydoğu Anadolu 
+193 
+-13,1 
+571 
+78,4 
+
+Türkiye 
+688 
+-10,1 
+2.305 
+83,2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Notlar: 
+
+ 
+Tüm COVID-19 vakaları laboratuvar onaylıdır. 
+
+ 
+Rapor 00:00 ile 23:59 saatleri arasındaki verileri kapsamaktadır. 
+
+ 
+Değişim yüzdesi, karşılaştırma yapılan bir önceki güne göre sayıların yüzde kaç oranında arttığı 
+
+ya da azaldığını gösteren bir göstergedir. Aşağıdaki şekilde hesaplanmıştır. 
+
+𝐷𝑒ğ𝑖ş𝑖𝑚 𝑦ü𝑧𝑑𝑒𝑠𝑖 = (𝑌𝑒𝑛𝑖 𝑑𝑒ğ𝑒𝑟 − 𝐸𝑠𝑘𝑖 𝑑𝑒ğ𝑒𝑟)
+
+𝐸𝑠𝑘𝑖 𝑑𝑒ğ𝑒𝑟
+∗ 100 
+
+ 
+

@@ -1,0 +1,519 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+COVID-19 Günlük Durum Raporu 
+
+10/07/2020 
+
+Türkiye 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+11/07/2020 
+
+ 
+
+COVID-19 Günlük Durum Raporu, 10/07/2020, Türkiye 
+ 
+ 
+
+2 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tablo 1: COVID-19 Özet Tablo, Türkiye 
+ 
+
+Gösterge 
+10/07/2020 
+Önceki Güne  
+
+Göre Fark 
+
+Önceki Güne  
+
+Göre Değişim, (%) 
+
+Yeni Test Sayısı 
+49.527 
+-370 
+-0,7 
+
+Yeni Vaka Sayısı 
+1.005 
+-25 
+-2,4 
+
+Hastaneye Yatırılan  
+
+Yeni Hasta Sayısı 
+925 
+-107 
+-10,4 
+
+Entübe Edilen  
+
+Yeni Hasta Sayısı 
+48 
+-6 
+-11,1 
+
+Hastaneden  
+
+Taburcu Edilen  
+Yeni Hasta Sayısı 
+
+662 
+-898 
+-57,6 
+
+ 
+ 
+
+        
+       Günün Özeti - 10/07/2020 
+ 
+
+ 
+Bir önceki güne göre yeni COVID-19 vaka sayısı, hastaneye yatırılan yeni hasta sayısı ve 
+
+entübe edilen yeni hasta sayısında azalma görülmüştür (-%2,4, -%10,4 ve -%11,1). 
+
+ 
+Bir önceki güne göre bölgelerdeki vaka değişim yüzdesine bakıldığında; en fazla azalış Batı 
+
+Marmara Bölgesinde gerçekleşmiştir (-%42,9). En fazla artış ise Kuzeydoğu Anadolu 
+
+Bölgesinde (%28,6) olup vaka sayısı açısından incelendiğinde bu fark sadece 4 vakadır. 
+
+ 
+65-79 yaş grubunda 1.000.000 kişiye düşen yeni COVID-19 vaka sayısı kadınlarda 14, 
+
+erkeklerde ise 18’dir. 
+
+ 
+Bir önceki güne göre 12 İBBS-1 bölgesinden 8’inde hastaneye yatırılan yeni hasta sayısı 
+
+azalmış olup en fazla azalma ise Doğu Karadeniz Bölgesinde (-%32,0) görülmüştür.  
+
+ 
+
+COVID-19 Günlük Durum Raporu, 10/07/2020, Türkiye 
+ 
+ 
+
+3 
+
+ 
+
+Tablo 2: İBBS-1’e Göre Yeni COVID-19 Vaka Sayısı ve Bir Önceki Güne Göre Değişimi, Türkiye 
+ 
+
+İBBS-1 
+Yeni Vaka  
+
+Sayısı 
+
+Önceki Güne  
+
+Göre Fark 
+
+Önceki Güne  
+
+Göre Değişim, (%) 
+
+İstanbul 
+265 
+4 
+1,5 
+
+Batı Marmara 
+4 
+-3 
+-42,9 
+
+Ege 
+71 
+7 
+10,9 
+
+Doğu Marmara 
+87 
+-19 
+-17,9 
+
+Batı Anadolu 
+140 
+-13 
+-8,5 
+
+Akdeniz 
+51 
+-12 
+-19,0 
+
+Orta Anadolu 
+32 
+4 
+14,3 
+
+Batı Karadeniz 
+30 
+-4 
+-11,8 
+
+Doğu Karadeniz 
+12 
+-3 
+-20,0 
+
+Kuzeydoğu Anadolu 
+18 
+4 
+28,6 
+
+Ortadoğu Anadolu 
+40 
+4 
+11,1 
+
+Güneydoğu Anadolu 
+255 
+6 
+2,4 
+
+Türkiye 
+1.005 
+-25 
+-2,4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Şekil 1: İBBS-1’e Göre Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+COVID-19 Günlük Durum Raporu, 10/07/2020, Türkiye 
+ 
+ 
+
+4 
+
+ 
+
+Tablo 3: Cinsiyet ve Yaş Grubuna Göre Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+  
+
+  
+  
+  
+Yaş Grubu 
+  
+
+  
+  
+
+  
+< 2 
+2-4 
+5-14 
+15-24 
+25-49 
+50-64 
+65-79 
+80+ 
+
+Erkek 
+5 
+7 
+26 
+71 
+262 
+83 
+51 
+9 
+
+Kadın 
+5 
+6 
+29 
+77 
+225 
+92 
+45 
+12 
+
+Toplam 
+10 
+13 
+55 
+148 
+487 
+175 
+96 
+21 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Şekil 2: Cinsiyet ve Yaş Grubuna Göre 1.000.000 Kişiye Düşen Yeni COVID-19 Vaka Sayısı, Türkiye 
+
+ 
+
+4
+3
+4
+
+11
+
+17
+
+13
+
+18
+
+16
+
+4
+
+3
+
+5
+
+12
+
+15
+15
+
+14
+
+13
+
+0
+
+5
+
+10
+
+15
+
+20
+
+< 2
+2-4
+5-14
+15-24
+25-49
+50-64
+65-79
+80+
+
+Vaka / 1.000.000 Nüfus
+
+Cinsiyet ve Yaş Grubuna Göre 1.000.000 Kişiye Düşen Yeni COVID-19 Vaka Sayısı
+
+Erkek
+Kadın
+
+COVID-19 Günlük Durum Raporu, 10/07/2020, Türkiye 
+ 
+ 
+
+5 
+
+ 
+
+Tablo 4: İBBS-1’e Göre Hastane Hizmetleri ile İlgili COVID-19 Göstergeleri, Türkiye 
+ 
+
+  
+Yeni Hastane Yatışları 
+Hastaneden Yeni Taburcu Edilenler 
+
+İBBS-1 
+Sayı 
+Önceki Güne Göre 
+
+Değişim, (%) 
+Sayı 
+Önceki Güne Göre 
+
+Değişim, (%) 
+
+İstanbul 
+120 
+13,2 
+92 
+-70,0 
+
+Batı Marmara 
+8 
+-20,0 
+9 
+-52,6 
+
+Ege 
+70 
+-7,9 
+36 
+-69,5 
+
+Doğu Marmara 
+141 
+18,5 
+43 
+-81,0 
+
+Batı Anadolu 
+150 
+-13,8 
+140 
+-50,7 
+
+Akdeniz 
+78 
+-24,3 
+46 
+-41,0 
+
+Orta Anadolu 
+40 
+37,9 
+12 
+-62,5 
+
+Batı Karadeniz 
+43 
+-2,3 
+9 
+-84,2 
+
+Doğu Karadeniz 
+17 
+-32,0 
+4 
+-66,7 
+
+Kuzeydoğu Anadolu 
+24 
+4,3 
+11 
+-63,3 
+
+Ortadoğu Anadolu 
+39 
+-26,4 
+33 
+-41,1 
+
+Güneydoğu Anadolu 
+195 
+-27,8 
+227 
+-33,4 
+
+Türkiye 
+925 
+-10,4 
+662 
+-57,6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Notlar: 
+
+ 
+Tüm COVID-19 vakaları laboratuvar onaylıdır. 
+
+ 
+Rapor 00:00 ile 23:59 saatleri arasındaki verileri kapsamaktadır. 
+
+ 
+Değişim yüzdesi, karşılaştırma yapılan bir önceki güne göre sayıların yüzde kaç oranında arttığı 
+
+ya da azaldığını gösteren bir göstergedir. Aşağıdaki şekilde hesaplanmıştır. 
+
+𝐷𝑒ğ𝑖ş𝑖𝑚 𝑦ü𝑧𝑑𝑒𝑠𝑖 = (𝑌𝑒𝑛𝑖 𝑑𝑒ğ𝑒𝑟 − 𝐸𝑠𝑘𝑖 𝑑𝑒ğ𝑒𝑟)
+
+𝐸𝑠𝑘𝑖 𝑑𝑒ğ𝑒𝑟
+∗ 100 
+
+ 
+
