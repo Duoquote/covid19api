@@ -19,7 +19,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         with:
           ref: master
@@ -31,7 +30,6 @@ jobs:
       - name: Installing required python modules...
         run: pip install requests beautifulsoup4
 
-      # Runs a single command using the runners shell
       - name: Installing Dependencies...
         run: |
           sudo apt-get install language-pack-tr mupdf mupdf-tools
@@ -39,5 +37,10 @@ jobs:
       - name: Fetching new data...
         run: python update_data.py
 
-      - name: Push to the master branch...
-        run: git checkout -b cli && git commit -m "Updated the data..." && git push -f origin cli
+      - name: Push changes
+        uses: actions-go/push@v1
+        with:
+          force: true
+          author-name: Duoquote
+          commit-message: Updated data...
+          remote-ref: cli
