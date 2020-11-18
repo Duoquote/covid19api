@@ -1,0 +1,203 @@
+{
+    "summary": [
+        "29/06/2020 tarihinde COVID-19 için Türkiye’de toplam 52.108 yeni test yapılmıştır.",
+        "Yeni COVID-19 vaka sayısı 1.379 olarak gerçekleşmiştir. Bir önceki güne göre yeni vaka sayısındaki azalma 83 vaka ile en fazla İstanbul’da olmuştur.",
+        "80+ yaş grubunda 1.000.000 kişiye düşen yeni COVID-19 vaka sayısı erkeklerde 26, kadınlarda 16’dır.",
+        "Türkiye’de 29/06/2020 tarihinde hastaneye yatırılan yeni hasta sayısı 773, hastaneden taburcu edilen yeni hasta sayısı ise 1.175 olarak gerçekleşmiştir."
+    ],
+    "age_data": {
+        "men": {
+            "< 2": 7,
+            "2-4": 11,
+            "5-14": 38,
+            "15-24": 89,
+            "25-49": 378,
+            "50-64": 136,
+            "65-79": 61,
+            "80+": 15
+        },
+        "women": {
+            "< 2": 5,
+            "2-4": 7,
+            "5-14": 32,
+            "15-24": 117,
+            "25-49": 300,
+            "50-64": 108,
+            "65-79": 60,
+            "80+": 15
+        },
+        "all": {
+            "< 2": 12,
+            "2-4": 18,
+            "5-14": 70,
+            "15-24": 206,
+            "25-49": 678,
+            "50-64": 244,
+            "65-79": 121,
+            "80+": 30
+        }
+    },
+    "region_data": {
+        "i̇stanbul": {
+            "new_cases": 332,
+            "compared_yesterday": -83,
+            "compared_yesterday_percentage": -20
+        },
+        "bati_marmara": {
+            "new_cases": 5,
+            "compared_yesterday": -9,
+            "compared_yesterday_percentage": -64.3
+        },
+        "ege": {
+            "new_cases": 89,
+            "compared_yesterday": 5,
+            "compared_yesterday_percentage": 6
+        },
+        "dogu_marmara": {
+            "new_cases": 131,
+            "compared_yesterday": -17,
+            "compared_yesterday_percentage": -11.5
+        },
+        "bati_anadolu": {
+            "new_cases": 228,
+            "compared_yesterday": 49,
+            "compared_yesterday_percentage": 27.4
+        },
+        "akdeniz": {
+            "new_cases": 69,
+            "compared_yesterday": 22,
+            "compared_yesterday_percentage": 46.8
+        },
+        "orta_anadolu": {
+            "new_cases": 24,
+            "compared_yesterday": -10,
+            "compared_yesterday_percentage": -29.4
+        },
+        "bati_karadeniz": {
+            "new_cases": 34,
+            "compared_yesterday": 5,
+            "compared_yesterday_percentage": 17.2
+        },
+        "dogu_karadeniz": {
+            "new_cases": 13,
+            "compared_yesterday": 6,
+            "compared_yesterday_percentage": 85.7
+        },
+        "kuzeydogu_anadolu": {
+            "new_cases": 9,
+            "compared_yesterday": -21,
+            "compared_yesterday_percentage": -70
+        },
+        "ortadogu_anadolu": {
+            "new_cases": 49,
+            "compared_yesterday": 0,
+            "compared_yesterday_percentage": 0
+        },
+        "guneydogu_anadolu": {
+            "new_cases": 396,
+            "compared_yesterday": 59,
+            "compared_yesterday_percentage": 17.5
+        },
+        "turkiye": {
+            "new_cases": 1379,
+            "compared_yesterday": 6,
+            "compared_yesterday_percentage": 0.4
+        }
+    },
+    "hospital_data": {
+        "i̇stanbul": {
+            "hospitalized_count": 91,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 281,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "bati_marmara": {
+            "hospitalized_count": 6,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 16,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "ege": {
+            "hospitalized_count": 50,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 85,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "dogu_marmara": {
+            "hospitalized_count": 96,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 142,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "bati_anadolu": {
+            "hospitalized_count": 155,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 214,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "akdeniz": {
+            "hospitalized_count": 54,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 42,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "orta_anadolu": {
+            "hospitalized_count": 20,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 35,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "bati_karadeniz": {
+            "hospitalized_count": 31,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 33,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "dogu_karadeniz": {
+            "hospitalized_count": 10,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 8,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "kuzeydogu_anadolu": {
+            "hospitalized_count": 8,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 30,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "ortadogu_anadolu": {
+            "hospitalized_count": 39,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 20,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "guneydogu_anadolu": {
+            "hospitalized_count": 213,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 269,
+            "healed_compared_yesterday_percentage": 0
+        },
+        "turkiye": {
+            "hospitalized_count": 773,
+            "hospitalized_compared_yesterday_percentage": 0,
+            "healed_count": 1.175,
+            "healed_compared_yesterday_percentage": 0
+        }
+    },
+    "tests": 52108,
+    "tests_compared_yesterday": 0,
+    "healed": 1175,
+    "healed_compared_yesterday": 0,
+    "hospitalized": 773,
+    "hospitalized_compared_yesterday": 0,
+    "intubated": 43,
+    "intubated_compared_yesterday": 0,
+    "cases": 1379,
+    "cases_compared_yesterday": 16,
+    "tests_compared_percentage": 0,
+    "healed_compared_percentage": 0,
+    "hospitalized_compared_percentage": 0,
+    "intubated_compared_percentage": 0,
+    "cases_compared_percentage": 0,
+    "date": 1593378000
+}
