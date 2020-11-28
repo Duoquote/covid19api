@@ -1,3 +1,7 @@
+### Status:   ![build status](https://github.com/duoquote/covid19api/workflows/CI/badge.svg)
+**If status is not passing, the data is not updated.**
+
+
 # Covid19 Virus data compiled from https://covid19.saglik.gov.tr/
 ## Access API here: https://covid19reqapi.herokuapp.com/
 ### Data updated everyday at night.
